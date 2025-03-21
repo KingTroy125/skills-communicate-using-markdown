@@ -13,4 +13,5 @@ string name = "KingTroy125"
 ````
 
 - [x] Created Headings
+- [x] Added a Image
 - [x] Added Code block
