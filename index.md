@@ -9,7 +9,7 @@
 #### String in C#
 
 ````cshape
-string name = "KingTroy125"
+string name = "KingTroy125";
 ````
 
 - [x] Created Headings
